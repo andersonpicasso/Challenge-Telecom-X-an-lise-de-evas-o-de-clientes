@@ -6,8 +6,6 @@ O ONE é um programa de educação e empregabilidade que visa proporcionar apren
 
 Dada a base de dados, o desafio consistia em analisar, organizar, interpretar e exibir os gráficos de forma a identificar possíveis causas da evasão de clientes. Além disso, com base nos dados e gráficos obtidos, era necessário propor soluções que contribuam para a melhoria dos serviços e para a redução da evasão.
 
-Se quiser uma versão mais formal ou mais enxuta, posso ajustar também.
-
 ## 📊 Sobre os gráficos
 
 Para tornar a visualização dos dados mais clara, optamos por exibir gráficos em todas as funções, associando cada valor à sua representação visual e, assim, evidenciar com maior nitidez as diferenças numéricas em cada caso.
